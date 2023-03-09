@@ -1,0 +1,27 @@
+
+.mi-img-carrusel{
+    height: 500px;
+    object-fit: cover;
+}
+
+/* nosotros */
+.mi-container-nosotros{
+    margin-top: 60px;
+}
+
+.mi-img-container{
+    height: 500px !important;
+    object-fit: cover;
+}
+
+/* eventos */
+.mi-iframe-eventos{
+    margin-top: 60px;
+}
+
+.mi-img-media{
+    max-height: 100px;
+    max-width: 100px;
+
+    object-fit: cover;
+}
